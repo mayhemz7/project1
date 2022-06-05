@@ -122,8 +122,8 @@ color: #010101;
     height: 1129px;
     padding-top: 128px;
     padding-bottom: 271px;
-    background: url(../img/buildings__black.png) center 100% repeat-x,
-        url(../img/buildings__white.png) center 100% repeat-x,
+    background: url(../img/buildings__black.png) center 102% repeat-x,
+        url(../img/buildings__white.png) center 102% repeat-x,
         #1d1d1d;
 }               
 .about__inner {
